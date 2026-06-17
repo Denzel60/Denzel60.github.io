@@ -2,7 +2,7 @@
 
 A modern, responsive portfolio showcasing full-stack development expertise, backend engineering, and featured projects including **Vistara**, a tourist safety and tracking management system.
 
-**Live Site:** [https://denzelotieno.github.io](https://denzelotieno.github.io)  
+**Live Site:** [https://denzelotieno.github.io](https://denzel60.github.io)  
 **GitHub:** [Denzel60 (D.LaWrenc3)](https://github.com/Denzel60)
 
 ---
